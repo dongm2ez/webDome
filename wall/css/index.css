@@ -1,0 +1,13 @@
+.jumbotron{
+    margin-top: 50px;
+    height: 400px;
+}
+.jumbotron div {
+    font-size: 22px;
+    line-height: 36px;
+    font-weight: 500;
+    color: #fff;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
