@@ -1,0 +1,58 @@
+.container-fluid{
+    background: #8ac279;
+    height: 501px;
+}
+
+.container .index-header {
+    height: 63px;
+    margin-top: 50px;
+}
+
+.container .index-nav {
+    height: 113px;
+    padding-top: 88px;
+
+}
+
+.container .index-nav .index-nav-item {
+    display: inline-block;
+}
+
+.container .index-banner-box {
+    margin-top: 52px;
+}
+
+.container .index-banner-box .index-banner-item {
+    width: 236px;
+    height: 279px;
+    margin-left: 20px;
+    padding: 12px 12px 56px 12px;
+    border-radius: 4px;
+    background: #fff;
+}
+
+.container .index-banner-box .index-banner-item .banner {
+    margin-bottom: 18px;
+}
+
+.container .index-banner-box .index-banner-item .banner-info h4 {
+    display: inline-block;
+}
+
+.container .index-context {
+    background: #ffffff;
+    height: 1102px;
+    font-size: 0;
+}
+
+.container .index-context .index-context-recommended .recommended-item {
+    width: 234px;
+    height: 350px;
+    margin: 10px 0 20px 20px;
+    display: inline-block;
+    background: #000;
+}
+
+.container .index-context .index-context-recommended .recommended-item-lg {
+    width: 490px;
+}
